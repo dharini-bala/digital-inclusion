@@ -1,4 +1,3 @@
-# Digital Inclusion in Later Life
 ## Overview
 The continuing digitalisation of essential and optional services is rapidly moving us towards a 'digital by default' society. Routine tasks in everyday life now typically require the ability to use systems aimed at a digitally literate population.
  
