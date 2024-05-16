@@ -1,13 +1,15 @@
 # Digital Inclusion in Later Life
 ## Overview
-The growing digitalisation of essential and optional services increasingly necessitates the use of digital resources. Routine tasks in everyday life now typically require the ability to use systems aimed at a digitally literate population.
+The continuing digitalisation of essential and optional services is rapidly moving us towards a 'digital by default' society. Routine tasks in everyday life now typically require the ability to use systems aimed at a digitally literate population.
  
-Digital exclusion is linked not only to the lack of access to digital devices and the Internet, but also to the lack of digital literacy and motivation. Literature suggests that digital literacy is inversely related to age. While older adults are not homogeneous in their abilities and attitudes, the consequences of ageing can affect the ability of this group to adopt diverse and fast evolving digital technologies. Yet, these technologies are increasingly needed to improve or maintain the quality of life, and preserve the independence of older adults. Thus, digital exclusion may have a particularly significant effect on the older population. The knock on effect of the problem can also affect family, friends and service providers supporting older adults. Rapidly changing digital landscape, lack of systematic consideration of accessibility to older adults during the development and deployment of digital solutions, and population ageing all exacerbate this challenge.
+Digital exclusion is linked not only to the lack of access to digital devices and the Internet, but also to the lack of digital literacy and motivation. Literature suggests that digital literacy is inversely related to age. While older adults are not homogeneous in their abilities and attitudes, the consequences of ageing can affect the ability of this group to adopt diverse and fast evolving digital technologies. Yet, these technologies are increasingly needed to improve or maintain the quality of life, and to preserve the independence of older adults. Thus, digital exclusion may have a particularly significant effect on the older population. The knock on effect of the problem can also affect family, friends and service providers supporting older adults. The rapidly changing digital landscape, lack of systematic consideration of accessibility to older adults during the development and deployment of digital solutions, and population ageing all exacerbate this challenge.
+
+Many older adults feel left behind by the pace and processes of digitalisation. Health and social care, government and council services, travel, banking, and social and familial connections are domains of particular concern in this context.
 
 This project aims to improve the digital inclusion of adults in later life through 4 approaches:
 - Deriving a framework for digital inclusion, incorporating factors that impact digital adoption and inclusive processes for introducing digital services,
 - Co-creating resources, in accordance with the above framework, to improve the digital literacy of older adults in our communities,
-- Producing guidance for software and interaction designers in developing digital services that are more accessible to older adults, and
+- Producing guidance for software and interaction designers for developing digital services that are more accessible to older adults, and
 - Providing support for those who support older adults with digital access.
  
 We will work in collaboration with local organisations and use iterative co-design processes to address this challenge.
