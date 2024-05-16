@@ -28,6 +28,7 @@ We will work in collaboration with local organisations and use iterative co-desi
 - EldersOnline: A System That Leverages Intergenerational Learning to Improve Older Adult Digital Literacy and Social Connectedness (Yusuf Farag, MSc dissertation, 2022-23)
 - EldersOnline: A High-Fidelity Figma Prototype for Improving the Digital Literacy of Older Adults (Gopichand Narra, MSc dissertation, 2022-23)
 - Reducing the Digital Exclusion of Older Adults with a Focus on the Transport Domain (Jodie Williamson, MSci dissertation, 2023-24)
+- Creating and Evaluating Resources to Increase Digital Literacy in Older Adults (Sarah Leidich, MSc dissertation, 2023-24) - current
 
 ## Publications
 - Balasubramaniam, D., Williamson, J., Farag, Y., Narra, G., & Boyd, K. M. (2024). Towards a deeper understanding of the challenges in digital technology adoption by older adults. Accepted for presentation by British Society of Gerontology 53rd Annual Conference, Newcastle, UK. (July 2024)
