@@ -24,10 +24,11 @@ We will work in collaboration with local organisations and use iterative co-desi
 ## Student Projects
 - Elderlearn: A Learning System for Improving the Digital Literacy of Older Adults (Mehr Vaswani, MSc dissertation, 2021-22)
 - Improving Digital Literacy in Older Adults (Kay Davies, St Andrews Research Internship Scheme, 2022-23)
-- EldersOnline: A System That Leverages Intergenerational Learning to Improve Older Adult Digital Literacy and Social Connectedness (Yusuf Farag, MSc dissertation, 2022-23)
+- EldersOnline: A System that Leverages Intergenerational Learning to Improve Older Adult Digital Literacy and Social Connectedness (Yusuf Farag, MSc dissertation, 2022-23)
 - EldersOnline: A High-Fidelity Figma Prototype for Improving the Digital Literacy of Older Adults (Gopichand Narra, MSc dissertation, 2022-23)
 - Reducing the Digital Exclusion of Older Adults with a Focus on the Transport Domain (Jodie Williamson, MSci dissertation, 2023-24)
 - Creating and Evaluating Resources to Increase Digital Literacy in Older Adults (Sarah Leidich, MSc dissertation, 2023-24) - current
+- The Use of Metaphors and Mind Mapping in Improving the Digital Literacy of Older Adults (Meredith Kellenberger, MSc dissertation, 2023-24) - current
 
 ## Publications
 - Balasubramaniam, D., Williamson, J., Farag, Y., Narra, G., & Boyd, K. M. (2024). Towards a deeper understanding of the challenges in digital technology adoption by older adults. Accepted for presentation by British Society of Gerontology 53rd Annual Conference, Newcastle, UK. (July 2024)
