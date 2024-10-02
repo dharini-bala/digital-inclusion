@@ -16,9 +16,11 @@ We will work in collaboration with local organisations and use iterative co-desi
 ## Staff
 - Dharini Balasubramaniam (Senior Lecturer, School of Computer Science, University of St Andrews)
 - Ken Boyd (Honorary Lecturer, School of Computer Science, University of St Andrews)
+
+## Past staff
 - Matthew Simpson (Research assistant, Digitalisation and Golf project)
 
-## Current Projects
+## Past Projects
 - The Impact of Digitalisation on Older Golfers (pilot study in collaboration with the R&A)
 
 ## Student Projects
@@ -27,11 +29,12 @@ We will work in collaboration with local organisations and use iterative co-desi
 - EldersOnline: A System that Leverages Intergenerational Learning to Improve Older Adult Digital Literacy and Social Connectedness (Yusuf Farag, MSc dissertation, 2022-23)
 - EldersOnline: A High-Fidelity Figma Prototype for Improving the Digital Literacy of Older Adults (Gopichand Narra, MSc dissertation, 2022-23)
 - Reducing the Digital Exclusion of Older Adults with a Focus on the Transport Domain (Jodie Williamson, MSci dissertation, 2023-24)
-- Creating and Evaluating Resources to Increase Digital Literacy in Older Adults (Sarah Leidich, MSc dissertation, 2023-24) - current
-- The Use of Metaphors and Mind Mapping in Improving the Digital Literacy of Older Adults (Meredith Kellenberger, MSc dissertation, 2023-24) - current
-- A Software Platform to Support Digital Literacy Research (Phattaradhorn Keeratavanithsathain, MSc dissertation, 2023-24) - current
+- Creating and Evaluating Resources to Increase Digital Literacy in Older Adults (Sarah Leidich, MSc dissertation, 2023-24)
+- The Use of Metaphors and Mind Mapping in Improving the Digital Literacy of Older Adults (Meredith Kellenberger, MSc dissertation, 2023-24)
+- A Software Platform to Support Digital Literacy Research (Phattaradhorn Keeratavanithsathain, MSc dissertation, 2023-24)
 
 ## Publications
-- Balasubramaniam, D., Williamson, J., Farag, Y., Narra, G., & Boyd, K. M. (2024). Towards a deeper understanding of the challenges in digital technology adoption by older adults. Presented at the British Society of Gerontology 53rd Annual Conference, Newcastle, UK. (July 2024)
+- Farag, Y., Narra, G., Balasubramaniam, D., & Boyd, K. M. (2025). EldersOnline: An Inclusive Platform that Leverages Intergenerational Learning to Improve the Digital Literacy and Social Connectedness of Older Adults. Accepted by: Communications in Computer and Information Science, Springer (Expected publication date: February 2025).
+- Balasubramaniam, D., Williamson, J., Farag, Y., Narra, G., & Boyd, K. M. (2024). Towards a deeper understanding of the challenges in digital technology adoption by older adults. Presented at the British Society of Gerontology 53rd Annual Conference, Newcastle, UK.
 - Farag, Y., Narra, G., Balasubramaniam, D., & Boyd, K. M. (2024). Improving the Digital Literacy and Social Participation of Older Adults: An Inclusive Platform that Fosters Intergenerational Learning. In Proceedings of the 10th International Conference on Information and Communication Technologies for Ageing Well and e-Health - ICT4AWE. SciTePress. pages 47-58. DOI: 10.5220/0012623400003699.
 - Vaswani, M., Balasubramaniam, D., & Boyd, K. M. (2023). A novel approach to improving the digital literacy of older adults. In 2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS) (pp. ). IEEE/ACM International Conference on Software Engineering: Software Engineering in Society. IEEE Computer Society. pages 169-174. DOI: 10.1109/icse-seis58686.2023.00023.
